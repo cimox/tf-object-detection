@@ -8,14 +8,16 @@ Hardware:
 
 ## Pre-trained RCNN + InceptionResNet V2
 - Source: https://tfhub.dev/google/faster_rcnn/openimages_v4/inception_resnet_v2/1
-- Inference time: **33.6s**
+- Inference time: **1.1s**
 
 Result:
-![Pre-trained RCNN + InceptionResNet V2](./rcnn+inceptionresnet_v2.png)
+![Pre-trained RCNN + InceptionResNet V2 Nature](./rcnn+inceptionresnet_v2_nature.png)
+![Pre-trained RCNN + InceptionResNet V2 Rainbow](./rcnn+inceptionresnet_v2_rainbow.png)
 
 ## Pre-trained fast SSD + MobileNet V2
 - Source: https://tfhub.dev/google/openimages_v4/ssd/mobilenet_v2/1
-- Inference time: **8.5s**
+- Inference time: **0.1s**
 
 Result:
-![Pre-trained fast SSD + MobileNet V2](./ssd+mobilenet_v2.png)
+![Pre-trained fast SSD + MobileNet V2 Nature](./ssd+mobilenet_v2_nature.png)
+![Pre-trained fast SSD + MobileNet V2 Rainbow](./ssd+mobilenet_v2_rainbow.png)
